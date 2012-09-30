@@ -1,0 +1,133 @@
+body
+{
+ margin: 10px auto 0px auto;
+ padding: 0px 0px 50px 0px;
+ font-family: "Calibri", Helvetica, Sans-Serif;
+}
+
+h3
+{
+ margin: 15px 0px 5px 0px;
+ font-size: 20px;
+}
+
+a
+{
+ text-decoration: none;
+ color: #6699ff;
+}
+
+a:visited
+{
+ text-decoration: none;
+ color: #6699ff;
+}
+
+a:hover
+{
+ text-decoration: underline;
+ color: #336699;
+}
+
+.main
+{
+ margin: 0px auto 0px auto;
+}
+
+.content
+{
+ margin: 10px auto 0px auto; 
+ width: 800px;
+}
+
+.banner
+{
+ height: 150px;
+ padding: 75px 0px 0px 0px;
+ background-color: #6699ff;
+ font-size: 50px;
+ font-weight: bold;
+ text-align: center;
+ text-indent: -200px;
+ color: #ffffff;
+}
+
+.compare
+{
+ margin: 10px auto 0px auto;
+ width:200px;
+ height: 50px;
+}
+
+.comparebutton
+{
+ margin: 5px 5px 5px 5px;
+ padding: 10px 50px 10px 50px;
+ font-size: 25px;
+}
+
+.info
+{
+ float: right;
+ text-align: right;
+}
+
+.phonetable
+{
+ margin: 5px 5px 5px 5px;
+ border: 1px dashed #000066;
+ text-align: center;
+}
+
+.flatbox
+{
+ margin: 5px 0px 5px 0px;
+ padding: 5px 5px 5px 5px;
+ border: 1px solid #000066;
+}
+
+
+.flatbutton
+{
+ margin: 10px 0px 10px 0px;
+ border: 1px dashed #000066;
+}
+
+.flatbutton:hover
+{
+ background-color: #ffffcc;
+ border: 1px dashed #000066;
+}
+
+.success
+{
+ font-style: oblique;
+ font-size: 14px;
+ color: #00cc00;
+}
+
+.error
+{
+ font-style: oblique;
+ font-size: 14px;
+ color: #ff0000;
+}
+
+.right
+{
+ float: right;
+}
+
+.widebox
+{
+ width: 200px;
+}
+
+.selected
+{
+ background-color: #99ff99;
+}
+.unselected
+{
+ background-color: #ffffff;
+}

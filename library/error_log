@@ -1,0 +1,69 @@
+[29-Sep-2012 22:21:17] PHP Warning:  DOMDocument::load(http://nova.it.rit.edu/~fxy2444/FP/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: Connection timed out in /home3/halygame/public_html/FP/library/securityWrapper.php on line 22
+[29-Sep-2012 22:21:17] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://nova.it.rit.edu/~fxy2444/FP/xml/config.xml&quot; in /home3/halygame/public_html/FP/library/securityWrapper.php on line 22
+[29-Sep-2012 22:21:17] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/FP/library/securityWrapper.php on line 25
+[30-Sep-2012 00:00:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'haly'@'localhost' (using password: YES) in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 33
+[30-Sep-2012 00:02:13] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:14] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:14] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:02:19] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:19] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:19] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:02:31] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:31] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:31] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:02:38] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:38] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:02:38] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:04:14] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:04:14] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:04:14] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:04:20] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:04:20] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:04:20] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:04:21] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:04:21] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:04:21] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:05:11] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:05:11] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:05:11] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:05:28] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:05:28] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:05:28] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:05:30] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:05:30] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:05:30] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:07:33] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:07:33] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:07:33] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:10:04] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:10:04] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:10:04] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:10:26] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:10:26] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:10:26] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:11:21] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:11:21] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:11:21] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:11:45] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:11:45] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 22
+[30-Sep-2012 00:11:45] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 25
+[30-Sep-2012 00:12:39] PHP Warning:  DOMDocument::load(http://halygames.com/projects/fp/xml/config.xml) [<a href='domdocument.load'>domdocument.load</a>]: failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 23
+[30-Sep-2012 00:12:39] PHP Warning:  DOMDocument::load() [<a href='domdocument.load'>domdocument.load</a>]: I/O warning : failed to load external entity &quot;http://halygames.com/projects/fp/xml/config.xml&quot; in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 23
+[30-Sep-2012 00:12:39] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 26
+[30-Sep-2012 00:19:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'halygame_haly'@'localhost' (using password: YES) in /home3/halygame/public_html/projects/fp/library/securityWrapper.php on line 34
